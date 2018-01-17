@@ -6,8 +6,8 @@
 		<link rel="stylesheet" href="css/style.css">
 		<title>Tristan Bennett's Pro Dev Doc</title>
 	</head>
-	<body>
 
+	<body>
 		<h1>Tristan Bennett's
 		<br>
 		Professional Development</h1>
