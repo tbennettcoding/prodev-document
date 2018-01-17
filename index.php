@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
 
 	<head>
-		<meta charset="UTF-8">
+		<meta charset="UTF-8"/>
 		<link rel="stylesheet" href="css/style.css">
 		<title>Tristan Bennett's Pro Dev Doc</title>
 	</head>
 
 	<body>
-		<h1>Tristan Bennett's
+		<h1> Tristan Bennett's
 		<br>
 		Professional Development</h1>
 
@@ -64,7 +64,7 @@
 
 			<h3>How I use my Whole Brain</h3>
 
-			<p>Short Answer: <em>I think</em></p>
+			<p id = "highlight">Short Answer: <em>I think</em></p>
 
 			<p>My brain works in a circular motion, passing things back and forth from one side of the brain to the other.
 				Generally, my left brain dislikes something logical, which sets off an emotion or something that is based
