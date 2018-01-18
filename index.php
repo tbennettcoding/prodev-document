@@ -12,8 +12,8 @@
 		<br>
 		Professional Development</h1>
 
-		<p>Last updated: Jan 16th, 2018</p>
-		<p>Career Buddy: Daniel Heron</p>
+		<p>Last updated: Jan 18th, 2018</p>
+		<p>Career Buddy: Kenneth Keyes and Daniel Heron</p>
 
 		<hr>
 
