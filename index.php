@@ -12,7 +12,7 @@
 		<br>
 		Professional Development</h1>
 
-		<p>Last updated: Jan 22nd, 2018</p>
+		<p>Last updated: Jan 23rd, 2018</p>
 		<p>Career Buddies: Kenneth Keyes and Daniel Heron</p>
 
 		<hr>
@@ -39,6 +39,20 @@
 				<li>dolphinsswimteam.net: swimming records holder</li>
 			</ul>
 			<p>I was surprised to find myself on an Alumni page for the University of New Mexico's Robert O. Anderson School of Management. Outside of that, everything I found was in regards to athletic achievements. It seems that there is not much surface level public information on Tristan Bennett from Albuquerque, NM.</p>
+
+			<h3>Direct and Indirect Initiatives</h3>
+			<h4>Direct</h4>
+			<ul>
+				<li>Hand out Business Cards and Resumes at professional events</li>
+				<li>Approach companies I know need website help, pitch proposal</li>
+				<li>Asking small business I visit about their online presence and looking at it</li>
+			</ul>
+			<h4>Indirect</h4>
+			<ul>
+				<li>Applying for jobs and internships</li>
+				<li>Create for friends and family and use word of mouth marketing</li>
+				<li>Get my name and work out throw social media by Contributing to digital communities</li>
+			</ul>
 		<!--
 		Learning style percentages provided by www.educationplaner.org/students/self-assessments/learning-styles.html
 		-->
