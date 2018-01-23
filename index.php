@@ -35,8 +35,10 @@
 				<li>ABQ Journal: 2010 High School Swimming Article</li>
 				<li>nmswim.org: 2009 NMAA High School Champions</li>
 				<li>ABQ Journal: 2008 All State Soccer Teams</li>
+				<li>alumnius.net: listed under Robert O. Anderson School of Management</li>
+				<li>dolphinsswimteam.net: swimming records holder</li>
 			</ul>
-			<p>Most of the information I found online about myself was from the Albuquerque Journal in regards to High School Athletics. There may be negative things out there, however I was only able to find information about sports.</p>
+			<p>I was surprised to find myself on an Alumni page for the University of New Mexico's Robert O. Anderson School of Management. Outside of that, everything I found was in regards to athletic achievements. It seems that there is not much surface level public information on Tristan Bennett from Albuquerque, NM.</p>
 		<!--
 		Learning style percentages provided by www.educationplaner.org/students/self-assessments/learning-styles.html
 		-->
