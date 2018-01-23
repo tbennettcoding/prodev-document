@@ -29,8 +29,14 @@
 		<div class = "homework">
 		<h2>Homework Activities</h2>
 			<h3>Google Search of Myself</h3>
-			<p></p>
-
+			<ul>
+				<li>Facebook</li>
+				<li>Newspapers.com: ABQ Publication 2010 High School Soccer article</li>
+				<li>ABQ Journal: 2010 High School Swimming Article</li>
+				<li>nmswim.org: 2009 NMAA High School Champions</li>
+				<li>ABQ Journal: 2008 All State Soccer Teams</li>
+			</ul>
+			<p>Most of the information I found online about myself was from the Albuquerque Journal in regards to High School Athletics. There may be negative things out there, however I was only able to find information about sports.</p>
 		<!--
 		Learning style percentages provided by www.educationplaner.org/students/self-assessments/learning-styles.html
 		-->
