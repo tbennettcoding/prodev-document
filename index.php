@@ -8,12 +8,12 @@
 	</head>
 
 	<body>
-		<h1> Tristan Bennett's
+		<h1> Tristan Bennett
 		<br>
 		Professional Development</h1>
 
 		<p>Last updated: Jan 22nd, 2018</p>
-		<p>Career Buddy: Kenneth Keyes and Daniel Heron</p>
+		<p>Career Buddies: Kenneth Keyes and Daniel Heron</p>
 
 		<hr>
 
