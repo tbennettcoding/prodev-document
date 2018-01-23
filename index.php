@@ -64,7 +64,7 @@
 
 			<h3>How I use my Whole Brain</h3>
 
-			<p id = "highlight">Short Answer: <em>I think</em></p>
+			<p>Short Answer: <em>I think</em></p>
 
 			<p>My brain works in a circular motion, passing things back and forth from one side of the brain to the other.
 				Generally, my left brain dislikes something logical, which sets off an emotion or something that is based
@@ -102,6 +102,8 @@
 			<h2>Weekly Reflections</h2>
 			<h3>Week 1</h3>
 			<p>Week one was a incredible! Having the opportunity to learn so much information, while difficult, has proven to be an exciting new step. Learning to develop alongside the other members of Cohort 19 and hearing the success stories from those who came before us is inspiring. I look forward to what week two and the rest of the Bootcamp has to offer!</p>
+			<h3>Week 2</h3>
+			<p>Week two went by very quickly. I was a little uneasy at the beginning of the week considering the assignment over the weekend, regarding data design, I was unable to complete. As it turned out the class was not aware of, or given, information that allowed us to complete our database set up using UUIDs. Even with that blow to my confidence, I am having a fantastic time! I really enjoy the style of the Bootcamp and am extremely happy about taking advantage of the opportunity. As we move into working heavily on our personal websites and capstones, I am anxious about my time management. Hopefully my decision to join some of the other students at Simms Place as a location to study. While it's difficult to not spend time with those close to me, I am blessed to have a support group that understands my situation and is encouraging throughout it all. I am looking forward to completing data design and starting our capstone projects, with all the challenges they will bring. </p>
 		</div>
 
 	</body>
