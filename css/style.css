@@ -2,3 +2,14 @@ h1 {
 	background-color: lightgrey;
 	text-align: center;
 }
+
+#leftSideFloat {
+ 	display: inline-block;
+	float: left;
+
+}
+
+#rightSideFloat {
+	display: inline-block;
+	float: right;
+}
