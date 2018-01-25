@@ -12,7 +12,7 @@
 		<br>
 		Professional Development</h1>
 
-		<p>Last updated: Jan 23rd, 2018</p>
+		<p>Last updated: Jan 25th, 2018</p>
 		<p>Career Buddies: Kenneth Keyes and Daniel Heron</p>
 
 		<hr>
@@ -60,7 +60,7 @@
 			</div>
 
 
-			<br>
+			<br id = "clear">
 		<!--
 		Learning style percentages provided by www.educationplaner.org/students/self-assessments/learning-styles.html
 		-->
