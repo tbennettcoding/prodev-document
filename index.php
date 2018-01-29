@@ -20,6 +20,7 @@
 		<div class = "centerText">
 		<h2>My Links</h2>
 			<ul class="inlineList">
+				<li><a href="https://github.com/tbennettcoding" target = "_blank">GitHub</a></li>
 				<li><a href="https://www.linkedin.com/in/tristan-bennett-5b37859b/" target = "_blank">LinkedIn</a></li>
 				<li><a href="https://medium.com/@tmbennett2011" target = "_blank">Medium</a></li>
 				<li><a href="pdf/resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
@@ -28,7 +29,7 @@
 		<hr>
 
 		<div class = "homework">
-		<h2>Homework Activities</h2>
+		<h2 class = "centerText">Homework Activities</h2>
 			<h3>Google Search of Myself</h3>
 			<ul>
 				<li>Facebook</li>
@@ -124,7 +125,7 @@
 
 			<hr>
 
-		<h3>Elevator Pitch</h3>
+		<h2 class = "centerText">Elevator Pitch</h2>
 
 		<p><strong>Version 1</strong></p>
 
@@ -142,7 +143,7 @@
 		</div>
 		<hr>
 		<div class = "reflections">
-			<h2>Weekly Reflections</h2>
+			<h2 class = "centerText">Weekly Reflections</h2>
 			<h3>Week 1</h3>
 			<p>Week one was a incredible! Having the opportunity to learn so much information, while difficult, has proven to be an exciting new step. Learning to develop alongside the other members of Cohort 19 and hearing the success stories from those who came before us is inspiring. I look forward to what week two and the rest of the Bootcamp has to offer!</p>
 			<h3>Week 2</h3>
