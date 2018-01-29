@@ -6,22 +6,27 @@ h1 {
 	text-align: center;
 }
 
+h3 {
+	text-decoration: underline;
+}
+
 .inlineList li {
 	display: inline;
 	padding-right: 3em;
 }
 
-#leftSideFloat {
+.leftSideFloat {
  	display: inline-block;
 	float: left;
-
 }
 
-#rightSideFloat {
+
+
+.rightSideFloat {
 	display: inline-block;
 	float: right;
 }
 
-#clear {
+.clear {
 	clear: both;
 }

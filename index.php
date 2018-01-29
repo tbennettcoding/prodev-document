@@ -42,7 +42,7 @@
 
 			<h3>Direct and Indirect Initiatives</h3>
 
-			<div id = "leftSideFloat">
+			<div class = "leftSideFloat">
 				<p>Direct</p>
 				<ul>
 					<li>Hand out Business Cards and Resumes at professional events</li>
@@ -50,7 +50,7 @@
 					<li>Asking small business I visit about their online presence and looking at it</li>
 				</ul>
 			</div>
-			<div id = "rightSideFloat">
+			<div class = "rightSideFloat">
 				<p>Indirect</p>
 				<ul>
 					<li>Applying for jobs and internships</li>
@@ -59,7 +59,7 @@
 				</ul>
 			</div>
 
-			<br id = "clear">
+			<br class = "clear">
 
 			<h3>Introspection</h3>
 			<p>When it comes to goals, I've been lost. I have been wondering around, going through the motions trying to find what it is that I want to do and who I want to be. Internally, I feel lost with no sense of direction and I feel that this has put me in a state of hopelessness. There are times when I feel that "maybe I'm not meant to do anything important. Maybe this job is all that I am able to do." While internally I feel stuck, externally there are people and places that present opportunities to me, I just need to recognize and take them.</p>
@@ -82,7 +82,7 @@
 		</ul>
 
 			<hr>
-
+		<div class = "leftSideFloat">
 		<h3>Quantitative Accomplishments</h3>
 
 			<ul>
@@ -90,7 +90,9 @@
 				<li>Lead a team of 5 to project completion and state recognition</li>
 				<li>Brought in over $100,000 in funding</li>
 			</ul>
+		</div>
 
+		<div class = "rightSideFloat">
 		<h3>Qualitative Features</h3>
 
 		<ul>
@@ -98,6 +100,9 @@
 			<li>Organized</li>
 			<li>Open Minded</li>
 		</ul>
+		</div>
+
+			<br class = "clear">
 
 			<h3>How I use my Whole Brain</h3>
 
