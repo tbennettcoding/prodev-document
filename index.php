@@ -18,7 +18,7 @@
 		<hr>
 
 		<h2>My Links</h2>
-			<ul>
+			<ul class="inlineList">
 				<li><a href="https://www.linkedin.com/in/tristan-bennett-5b37859b/" target = "_blank">LinkedIn</a></li>
 				<li><a href="https://medium.com/@tmbennett2011" target = "_blank">Medium</a></li>
 				<li><a href="pdf/resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
