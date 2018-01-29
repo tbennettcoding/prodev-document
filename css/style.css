@@ -10,6 +10,18 @@ h3 {
 	text-decoration: underline;
 }
 
+header p:nth-child(1) {
+	color: blue;
+	display: inline-block;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+header p:nth-child(2) {
+	color: green;
+	display: inline-block;
+}
+
 .inlineList li {
 	display: inline;
 	padding-right: 3em;
@@ -18,13 +30,18 @@ h3 {
 .leftSideFloat {
  	display: inline-block;
 	float: left;
+	width: 50%;
 }
-
 
 
 .rightSideFloat {
 	display: inline-block;
 	float: right;
+	width: 50%;
+}
+
+.centerText {
+	text-align: center;
 }
 
 .clear {

@@ -11,19 +11,20 @@
 		<h1> Tristan Bennett
 		<br>
 		Professional Development</h1>
-
-		<p>Last updated: Jan 29th, 2018</p>
-		<p>Career Buddies: Kenneth Keyes and Daniel Heron</p>
+		<header>
+			<p>Career Buddies: <br>Kenneth Keyes and Daniel Heron</p>
+			<p>Last updated: Jan 29th, 2018</p>
+		</header>
 
 		<hr>
-
+		<div class = "centerText">
 		<h2>My Links</h2>
 			<ul class="inlineList">
 				<li><a href="https://www.linkedin.com/in/tristan-bennett-5b37859b/" target = "_blank">LinkedIn</a></li>
 				<li><a href="https://medium.com/@tmbennett2011" target = "_blank">Medium</a></li>
 				<li><a href="pdf/resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
 			</ul>
-
+		</div>
 		<hr>
 
 		<div class = "homework">
