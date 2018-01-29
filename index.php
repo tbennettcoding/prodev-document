@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="UTF-8"/>
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style.css"/>
 		<title>Tristan Bennett's Pro Dev Doc</title>
 	</head>
 
@@ -12,7 +12,7 @@
 		<br>
 		Professional Development</h1>
 
-		<p>Last updated: Jan 25th, 2018</p>
+		<p>Last updated: Jan 29th, 2018</p>
 		<p>Career Buddies: Kenneth Keyes and Daniel Heron</p>
 
 		<hr>
@@ -59,12 +59,19 @@
 				</ul>
 			</div>
 
-
 			<br id = "clear">
+
+			<h3>Introspection</h3>
+			<p>When it comes to goals, I've been lost. I have been wondering around, going through the motions trying to find what it is that I want to do and who I want to be. Internally, I feel lost with no sense of direction and I feel that this has put me in a state of hopelessness. There are times when I feel that "maybe I'm not meant to do anything important. Maybe this job is all that I am able to do." While internally I feel stuck, externally there are people and places that present opportunities to me, I just need to recognize and take them.</p>
+			<p>Because I feel lost and stuck in my own life I have, in part, adopted a mentality to help others when they need it. Sometimes it is simple encouragement, other times it's going out with them to find someting they wan to pursue, or push them to do it. Creating value or allowing others to see the value in themselves is something that I have always enjoyed doing because in those moments there is genuine emotion. </p>
+			<p>While I feel that, at times, I help others, most of the time it seems I lack drive. Many people have told me that I have potential in certain skills or areas, however I can never seem to bring myself to do anything about it. While I don't disagree that I professional potential, I don't know how to act on it. This is where I feel that I have nothing. My actions contradict what I believe in cases like this, and when I realize that I missed that chance, all I can do is revert back to the belief that "maybe it's not for me." This is one of the aspects I like least about myself. Knowing I have the ability to do anything, and letting it all slip by.</p>
+
+
+
+
 		<!--
 		Learning style percentages provided by www.educationplaner.org/students/self-assessments/learning-styles.html
 		-->
-
 		<h3>My Learning Style</h3>
 
 		<p><strong>Visual Learner</strong></p>
@@ -134,6 +141,8 @@
 			<p>Week one was a incredible! Having the opportunity to learn so much information, while difficult, has proven to be an exciting new step. Learning to develop alongside the other members of Cohort 19 and hearing the success stories from those who came before us is inspiring. I look forward to what week two and the rest of the Bootcamp has to offer!</p>
 			<h3>Week 2</h3>
 			<p>Week two went by very quickly. I was a little uneasy at the beginning of the week considering the assignment over the weekend, regarding data design, I was unable to complete. As it turned out the class was not aware of, or given, information that allowed us to complete our database set up using UUIDs. Even with that blow to my confidence, I am having a fantastic time! I really enjoy the style of the Bootcamp and am extremely happy about taking advantage of the opportunity. As we move into working heavily on our personal websites and capstones, I am anxious about my time management. Hopefully my decision to join some of the other students at Simms Place as a location to study. While it's difficult to not spend time with those close to me, I am blessed to have a support group that understands my situation and is encouraging throughout it all. I am looking forward to completing data design and starting our capstone projects, with all the challenges they will bring. </p>
+			<h3>Week 3</h3>
+			<p>Week three flew by! It was very nice to have days to simply work on projects, however I hope that those "free" days have not put me behind in any way. Starting CSS proved more difficult for me that I expected. While I think I was able grasp the concepts, in practice I am struggling to make the CSS do what I want. I believe that I need to possibly spend more time on the CSS and front end than on any other aspect of what have learned so far. Going into week four and the beginning of capstone projects is an exciting prospect. I am looking forward to working with a group to create something from scratch.</p>
 		</div>
 
 	</body>
