@@ -42,8 +42,17 @@
 			</ul>
 			<p>I was surprised to find myself on an Alumni page for the University of New Mexico's Robert O. Anderson School of Management. Outside of that, everything I found was in regards to athletic achievements. It seems that there is not much surface level public information on Tristan Bennett from Albuquerque, NM.</p>
 
-			<h3>Direct and Indirect Initiatives</h3>
+			<h3>Notable Organizations</h3>
+			<ul>
+				<li><a href="http://ypabq.org/">Young Professionals of Albuquerque</a></li>
+				<li><a href="http://www.1millioncups.com/albuquerque" target = "_blank">1 Million Cups</a></li>
+				<li><a href="https://www.meetup.com/defcon505/">DC505 (Ethical Hacking group)</a></li>
+				<li><a href="https://nmtechcouncil.org/">New Mexico Technology Council (NMTC)</a></li>
+			</ul>
 
+
+
+			<h3>Direct and Indirect Initiatives</h3>
 			<div class = "leftSideFloat">
 				<p>Direct</p>
 				<ul>
@@ -132,13 +141,13 @@
 		<p>I am working on software that will allow competitive gamers to access accurate league standings and ladder rankings
 			more efficiently. This will allow individuals more time in game and less time calculating potential stats.</p>
 
-		<p>Unlike similar software, I will involve the community in development in order to accurately present the desired information as fast as possible.
+		<p>Unlike similar software, I will involve the community in development in order to accurately present desired information as fast as possible.
 			Although it will take longer to develop, on average less time will be spent waiting on scores and more time improving in game.</p>
 
 		<p>How long do you currently wait for stats to update after completing a game?</p>
 
 			<p><strong>Version 2</strong></p>
-			<p>Hi my name is Tristan. I design software that allows users to more efficiently manage their time. I'm working with a group
+			<p>Hi my name is Tristan Bennett. I'm a Full Stack Developer interested in designing software that allows users to more efficiently manage their time. I am currently working with a group
 				of developers to present more relatable data, faster. How much time do you spend waiting on information?</p>
 		</div>
 		<hr>
