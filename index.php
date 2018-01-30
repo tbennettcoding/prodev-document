@@ -11,10 +11,7 @@
 		<h1> Tristan Bennett
 		<br>
 		Professional Development</h1>
-		<header>
-			<p>Career Buddies: <br>Kenneth Keyes and Daniel Heron</p>
-			<p>Last updated: Jan 29th, 2018</p>
-		</header>
+
 
 		<hr>
 		<div class = "centerText">
@@ -165,5 +162,9 @@
 			<p>Week three flew by! It was very nice to have days to simply work on projects, however I hope that those "free" days have not put me behind in any way. Starting CSS proved more difficult for me that I expected. While I think I was able grasp the concepts, in practice I am struggling to make the CSS do what I want. I believe that I need to possibly spend more time on the CSS and front end than on any other aspect of what have learned so far. Going into week four and the beginning of capstone projects is an exciting prospect. I am looking forward to working with a group to create something from scratch.</p>
 		</div>
 
+		<footer>
+			<p>Career Buddies: <br>Kenneth Keyes and Daniel Heron</p>
+			<p>Last updated: Jan 29th, 2018</p>
+		</footer>
 	</body>
 </html>
