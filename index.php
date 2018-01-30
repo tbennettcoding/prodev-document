@@ -53,6 +53,10 @@
 
 
 			<h3>Direct and Indirect Initiatives</h3>
+
+			<p>This passt week I approached my old employer to discuss updating their website post graduation. They are interested, however unsure about what it is that they need. Coincidentally I don't know what they are using and will need to figure out what is wrong on the back end.
+			I also talked to family friends in order to get my name out there regarding what I'm learning. It allowed them to think of their own friends thaey may put me in touch with to design a site for them.</p>
+
 			<div class = "leftSideFloat">
 				<p>Direct</p>
 				<ul>
