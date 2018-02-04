@@ -20,13 +20,23 @@
 				<li><a href="https://github.com/tbennettcoding" target = "_blank">GitHub</a></li>
 				<li><a href="https://www.linkedin.com/in/tristan-bennett-5b37859b/" target = "_blank">LinkedIn</a></li>
 				<li><a href="https://medium.com/@tmbennett2011" target = "_blank">Medium</a></li>
-				<li><a href="pdf/resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
+				<li><a href="pdf/tristan-bennett-resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
 			</ul>
 		</div>
 		<hr>
 
 		<div class = "homework">
 		<h2 class = "centerText">Homework Activities</h2>
+
+			<h3>Capstone</h3>
+			<h4>Forbidden Island</h4>
+			<p>As part of learning more about the other members making up the Q-review (Jeopardy) Capstone team, we played a game of Forbidden Island. The purpose of the game is to work together in order to defeat the board. As time goes on the game becomes increasingly more difficult as the ways to loose stack against you. Much like when working on a project, this game allowed us all to learn characteristics about each other that otherwise may have been left unknown.</p>
+			<p>I think our team is comprised of some very strong willed people and at times this may cause conflict. Along with that, there are two types of personalities present in our group. The first is the energetic "leader", who makes their voice heard in each conversation and is not afraid to question or argue. The second is a more "passive" style where ideas come and go, considering all options from a more distant point of view. While there may be a clash of ideas, because we are all able to communicate, I believe that our group will be able to overcome challenges by talking and working through them together.</p>
+
+
+
+
+
 			<h3>Google Search of Myself</h3>
 			<ul>
 				<li>Facebook</li>
@@ -160,11 +170,13 @@
 			<p>Week two went by very quickly. I was a little uneasy at the beginning of the week considering the assignment over the weekend, regarding data design, I was unable to complete. As it turned out the class was not aware of, or given, information that allowed us to complete our database set up using UUIDs. Even with that blow to my confidence, I am having a fantastic time! I really enjoy the style of the Bootcamp and am extremely happy about taking advantage of the opportunity. As we move into working heavily on our personal websites and capstones, I am anxious about my time management. Hopefully my decision to join some of the other students at Simms Place as a location to study. While it's difficult to not spend time with those close to me, I am blessed to have a support group that understands my situation and is encouraging throughout it all. I am looking forward to completing data design and starting our capstone projects, with all the challenges they will bring. </p>
 			<h3>Week 3</h3>
 			<p>Week three flew by! It was very nice to have days to simply work on projects, however I hope that those "free" days have not put me behind in any way. Starting CSS proved more difficult for me that I expected. While I think I was able grasp the concepts, in practice I am struggling to make the CSS do what I want. I believe that I need to possibly spend more time on the CSS and front end than on any other aspect of what have learned so far. Going into week four and the beginning of capstone projects is an exciting prospect. I am looking forward to working with a group to create something from scratch.</p>
+			<h3>Week 4</h3>
+			<p>Week four was much more stressful than all the previous weeks. On top of getting our Capstone groups and beginning to work on them, I had a personal issue arise that caused some considerable stress. While I have worked through most of that now, I cannot help but feel that I lost some valuable time in regards to coding and learning. Moving forward I need to put more effort into staying focused for long periods of time. By doing this, I will be able to accomplish more in one sitting and will most likely feel less stress. My hope is that I will be able to make time for my personal website while in the midst of the capstone. Regardless of the how hard the work ahead will be, I am excited to see what our power group will be able to accomplish. Q-review coming soon!</p>
 		</div>
 
 		<footer>
 			<p>Career Buddies: <br>Kenneth Keyes and Daniel Heron</p>
-			<p>Last updated: Jan 29th, 2018</p>
+			<p>Last updated: Feb. 2nd, 2018</p>
 		</footer>
 	</body>
 </html>
