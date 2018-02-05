@@ -20,7 +20,7 @@
 				<li><a href="https://github.com/tbennettcoding" target = "_blank">GitHub</a></li>
 				<li><a href="https://www.linkedin.com/in/tristan-bennett-5b37859b/" target = "_blank">LinkedIn</a></li>
 				<li><a href="https://medium.com/@tmbennett2011" target = "_blank">Medium</a></li>
-				<li><a href="pdf/tristan-bennett-resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
+				<li><a href="pdf/tristanbennett-resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
 			</ul>
 		</div>
 		<hr>
