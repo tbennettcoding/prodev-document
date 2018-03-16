@@ -182,7 +182,7 @@
 
 		<footer>
 			<p>Career Buddies: <br>Kenneth Keyes and Daniel Heron</p>
-			<p>Last updated: Feb. 2nd, 2018</p>
+			<p>Last updated: Mar. 16th, 2018</p>
 		</footer>
 	</body>
 </html>
